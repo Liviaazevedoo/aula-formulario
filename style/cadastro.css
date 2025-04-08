@@ -1,0 +1,21 @@
+*
+
+
+body {
+    background-color: rgb(144, 190, 242);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+     
+}
+
+h1{
+    width: 20%;
+    height: 80%;
+    text-align: center;
+}
+
+input{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
