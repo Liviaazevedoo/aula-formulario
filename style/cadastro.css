@@ -6,16 +6,26 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 60vh;
-     
+    height: 100vh;
 }
 
 h1{
-    width: 20%;
-    height: 80%;
+    
+    margin-bottom: 20px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 input{
+    background-color: antiquewhite;
+    margin-bottom: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 4px;
+}
+
+main{
+    background-color: rgba(137, 43, 226, 0.597);
+    width: 30%;
+    padding: 15px;
+    margin: auto;
 }

@@ -5,7 +5,7 @@
     
 }
 
-{
+* {
     margin: 0;
     border: 0;
     outline: 0;
@@ -17,7 +17,7 @@
 }
 
 body {
-    background-color: var(--secundary)
+    background-color: var(--secundary);
     display: flex;
     justify-content: center;
     align-items: center;
